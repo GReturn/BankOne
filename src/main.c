@@ -6,6 +6,7 @@ int main(void)
 
     printf("Nate was here :)");
     printf("Nate was here hours ago.");
-    
+    printf("lexa cutie");
     return 0;
+
 }
